@@ -28,7 +28,5 @@ namespace DipTestingExercises
         {
             return gender;
         }
-
-
     }
 }
